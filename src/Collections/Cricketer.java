@@ -34,7 +34,7 @@ public class Cricketer implements Comparable<Cricketer> {
 	
 	@Override
 	public String toString() {
-		return "Cricketer [nzbc=" + name + ", year=" + year + "]";
+		return "Cricketer [nzbc=" + name + ", years=" + year + "]";
 	}
 
 
